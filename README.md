@@ -4,7 +4,7 @@ This public repository publishes immutable, audited model-pricing snapshots for 
 
 Production consumers must use raw URLs pinned to a full Git commit. Do not configure a branch URL such as `main` as a billing source.
 
-The current snapshot is copied from FAC Sub2API commit `89fa2061219e1e778c4ab4755754e5c14c0ac200` and is verified by `scripts/verify_snapshot.py`.
+The current snapshot is copied from FAC Sub2API commit `ee38e03b0d4ea74506a34cc6c97fa9b82b437fe9` and is verified by `scripts/verify_snapshot.py`.
 
 ## Contract
 
